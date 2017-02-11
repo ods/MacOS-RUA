@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.rua</string>
 	<key>CFBundleName</key>
-	<string></string>
+	<string>RUA</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_Russian</key>
+	<key>KLInfo_Russian (RUA)</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..russian</string>
+		<string>org.sil.ukelele.keyboardlayout.rua.russian(rua)</string>
 		<key>TISIntendedLanguage</key>
 		<string>ru</string>
 	</dict>
