@@ -18,4 +18,4 @@ Ukrainian layout.
 
 ![Keyboard layout](layout.png)
 
-Download: [MacOS-RUA.dmg](https://github.com/ods/MacOS-RUA/releases/download/v1/MacOS-RUA.dmg)
+Download: [MacOS-RUA.dmg](https://github.com/ods/MacOS-RUA/releases/download/v2/MacOS-RUA.dmg)
